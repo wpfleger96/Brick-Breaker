@@ -1,3 +1,17 @@
+   # Project Submission
+
+   Author: William Pfleger (Last 3 digits 283)
+
+   # Gameplay Instructions
+
+   This game is based on the traditional Breakout Game. The user uses the left and right arrow keys to move the paddle at the bottom of the screen to the left 
+   and right. The objective is to use the paddle to bounce the ball to destroy the bricks at the top of the screen. Bricks begin intact, and take 3 "hits" with
+   the ball to destroy. The bricks begin as blue, then when they are hit they turn yellow, red, and then dissapear. The user can press the space key at any time    to view the game instructions. When the ball touches the bottom of the screen (not the 
+   paddle i.e. the user misses the ball) the user loses one of his three lives. The game ends when the uses loses all his lives or completes all three levels.
+   Each time the user levels up, the bricks reset, the user gains an additional life, and the speed of the ball increases. The game keeps a score and the user 
+   gets one point for each brick destroyed.
+
+
 # CSCI 1302 - FXGame (cs1302-fxgame)
 
 This repository contains skeleton code for a project or assignment in  
